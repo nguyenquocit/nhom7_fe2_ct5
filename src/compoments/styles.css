@@ -1,0 +1,124 @@
+.xucxac{
+   
+        position: absolute;
+        top: 200px;
+        right: 200px;
+        width: 250px;
+        height: 250px;
+        background-color: yellow;
+        border-radius: 500px;
+    
+}
+.xucxac button{
+    position: absolute;
+    left: 80px;
+    top: 280px;
+    padding: 10px 30px;
+    background-color: green;
+    color: white;
+}
+.xucxac1{
+    position: absolute;
+    top: 50px;
+    left:50px;
+width: 50px;
+height: 50px;
+background-image: url(../images/cua.png);
+    background-size: cover;
+    background-position: center;
+}
+.xucxac2{
+    position: absolute;
+    top: 50px;
+    left:150px;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    background-image: url(../images/bau.png);
+    background-size: cover;
+    background-position: center;
+    }
+    .xucxac3{
+        position: absolute;
+    top: 150px;
+    left:100px;
+        width: 50px;
+        height: 50px;
+        background-image: url(../images/tom.png);
+    background-size: cover;
+    background-position: center;
+        }
+.dieuhuong{
+    position: relative;
+    
+    top: 180px;
+    padding-left: 5px;
+}
+.bau{
+   
+        position: absolute;
+        top: 100px;
+        left: 400px;
+        width: 223px;
+        height: 170px;
+        background: url(../images/bau.png);
+    
+}
+.cua{
+    
+        position: absolute;
+        top: 350px;
+        left: 400px;
+        width: 223px;
+        height: 170px;
+        background: url(../images/cua.png);
+    
+}
+.tom{
+     
+        position: absolute;
+        top: 350px;
+        left: 700px;
+        width: 223px;
+        height: 170px;
+        background: url(../images/tom.png);
+    
+}
+.ca{
+    
+        position: absolute;
+        top: 350px;
+        left: 100px;
+        width: 223px;
+        height: 170px;
+        background: url(../images/ca.png);
+    
+}
+.nai{
+   
+        position: absolute;
+        top: 100px;
+        left: 100px;
+        width: 223px;
+        height: 170px;
+        background: url(../images/huou.png);
+    
+}
+.ga{
+   
+        position: absolute;
+        top: 100px;
+        left: 700px;
+        width: 223px;
+        height: 170px;
+        background: url(../images/ga.png);
+    
+}
+.tienthuong{
+    position: absolute;
+    top: -100px;
+    background-color: blue;
+    padding: 10px 10px;
+    color: white;
+    border-radius:10px;
+}
