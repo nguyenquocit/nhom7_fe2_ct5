@@ -45,7 +45,9 @@ export default function BauCua() {
             <button>-</button>
         </div>
     </div>
-  
+  <div className = "btn-choilai">
+      <button>CHƠI LẠI</button>
+  </div>
 </div>
     )
     

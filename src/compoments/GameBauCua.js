@@ -5,11 +5,12 @@ export default function GameBauCua() {
     return(
 <div style = {{
     width: "100%",
-    height: 700,
+    height: 650,
     backgroundColor: 'orange'
 }}>
     <h1 style = {{
         textAlign: 'center',
+        color: 'red'
     }}>GAME BẦU CUA</h1>
         <XucSac/>
         <BauCua/>

@@ -123,3 +123,12 @@ background-image: url(../images/cua.png);
     color: white;
     border-radius:10px;
 }
+.btn-choilai button{
+    padding: 10px 20px;
+    position: absolute;
+    bottom:20px;
+    left: 465px;
+    border-radius:10px;
+    background-color:blue;
+    color: white;
+}
