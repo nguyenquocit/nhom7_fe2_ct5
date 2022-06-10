@@ -5,7 +5,7 @@ export default function GameBauCua() {
     return(
 <div style = {{
     width: "100%",
-    height: 650,
+    height: 710,
     backgroundColor: 'orange'
 }}>
     <h1 style = {{
